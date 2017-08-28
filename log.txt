@@ -1,119 +1,245 @@
+Command: do-what-it-says
+Song title: I Want It That Way
+Musicians: Backstreet Boys 
+Album name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Backstreet Boys 
+Album name: The Essential Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Backstreet Boys 
+Album name: Millennium
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Anthem Lights 
+Album name: Covers Part IV
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Backstreet Boys 
+Album name: 90 Sweet 90s Hits!
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Dynamite Boy 
+Album name: Punk Goes Pop
+Preview URL: null
+
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Musicians: "Weird Al" Yankovic 
+Album name: Poodle Hat
+Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Boyce Avenue 
+Album name: New Acoustic Sessions, Vol. 3
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Backstreet Boys 
+Album name: NOW That's What I Call 90s Pop
+Preview URL: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Backstreet Boys 
+Album name: NKOTBSB
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Scott Bradlee's Postmodern Jukebox Shoshana Bean 
+Album name: Selfies on Kodachrome
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: I Want It That Way
+Musicians: Scott Bradlee's Postmodern Jukebox Shoshana Bean 
+Album name: PMJ Is For Lovers: The Love Song Collection
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=4aedc6f8ce714d109d256f4b77e70487
+
 Command: spotify-this-song
-Song title: Strawberry Fields Forever; Artists: Rockabye Baby! ; Album name: Lullaby Renditions of The Beatles; Preview URL: https://p.scdn.co/mp3-preview/c5460c79399ce1a929e8fb4bcd68745bfbf259dd?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude - Remastered 2015
+Musicians: The Beatles 
+Album name: 1 (Remastered)
+Preview URL: null
 
-Song title: Strawberry Fields Forever; Artists: Karen Souza Los Panchos ; Album name: Karen Souza Essentials; Preview URL: https://p.scdn.co/mp3-preview/4acec5e909cc1cb3c89308dc38436f3385d29589?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude
+Musicians: Wilson Pickett 
+Album name: Hey Jude
+Preview URL: https://p.scdn.co/mp3-preview/f9bd7992e08e00c43e21ceeb3f06568cfd961913?cid=4aedc6f8ce714d109d256f4b77e70487
 
-Song title: Strawberry Fields Forever; Artists: La Santa Cecilia ; Album name: Someday New; Preview URL: null
+Song title: Hey Jude
+Musicians: Stephen Bennett 
+Album name: Beatles Acoustic Guitar Solos
+Preview URL: https://p.scdn.co/mp3-preview/f3a38e71e61387b4e5d4bbc827567de20f8d461e?cid=4aedc6f8ce714d109d256f4b77e70487
 
-Song title: Strawberry Fields Forever; Artists: Los Fabulosos Cadillacs ; Album name: Fabulosos Exitos; Preview URL: https://p.scdn.co/mp3-preview/64a19340e324bac3f41572d4f3b00305adc5265c?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude - From "Across The Universe" Soundtrack
+Musicians: Joe Anderson 
+Album name: Across The Universe (Original Deluxe)
+Preview URL: null
 
-Song title: Strawberry Fields Forever; Artists: Richie Havens ; Album name: Paris Live 1969; Preview URL: https://p.scdn.co/mp3-preview/15cdb31b80daa4447b6fbb480364940f01e82e22?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude
+Musicians: Happy Baby Lullaby Collection 
+Album name: Baby Beatles Lullaby Children Songs. Sweet Lullaby Renditions of Beatles Fav's Help Rock a Bye Your Kids & Baby to Sleep
+Preview URL: https://p.scdn.co/mp3-preview/dc80e78e1b5c3bce103f5a170e91a6c2c30f1831?cid=4aedc6f8ce714d109d256f4b77e70487
 
-Song title: Strawberry Fields Forever; Artists: Ben Harper ; Album name: I Am Sam (Original Soundtrack); Preview URL: https://p.scdn.co/mp3-preview/e672a386930d3ea77f6ee92b2ffc1dcc52dc8f81?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude
+Musicians: Imaginary Future 
+Album name: Yesterday
+Preview URL: https://p.scdn.co/mp3-preview/108736b4d343281136190c84cf82fc866e8012f4?cid=4aedc6f8ce714d109d256f4b77e70487
 
-Song title: Strawberry Fields Forever; Artists: Los Panchos Karen Souza ; Album name: Vintage Café: Lounge & Jazz Blends (Special Selection), Pt. 2; Preview URL: https://p.scdn.co/mp3-preview/4acec5e909cc1cb3c89308dc38436f3385d29589?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude (Glee Cast Version)
+Musicians: Glee Cast 
+Album name: Glee Sings The Beatles
+Preview URL: https://p.scdn.co/mp3-preview/24113c538fe1177bafc650898d095f8ba9e99afd?cid=4aedc6f8ce714d109d256f4b77e70487
 
-Song title: Strawberry Fields Forever; Artists: Stephen Bennett ; Album name: Beatles Acoustic Guitar Solos; Preview URL: https://p.scdn.co/mp3-preview/1305cf00ab5424612ce29c00b0a421790b3d95aa?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude
+Musicians: Rockabye Baby! 
+Album name: Lullaby Renditions of The Beatles
+Preview URL: https://p.scdn.co/mp3-preview/eb297b7755e3732791243841f9b4d833a31fedf8?cid=4aedc6f8ce714d109d256f4b77e70487
 
-Song title: Strawberry Fields Forever; Artists: Caspar Babypants ; Album name: Beatles Baby!; Preview URL: https://p.scdn.co/mp3-preview/0cde8a48988066514a62f70f4dceee1c3e8f28d2?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude
+Musicians: Jason Lancaster 
+Album name: As You Are
+Preview URL: null
 
-Song title: Strawberry Fields Forever; Artists: Me First and the Gimme Gimmes ; Album name: Ruin Jonny's Bar Mitzvah; Preview URL: https://p.scdn.co/mp3-preview/e06340eecbce3818bc79ed932c00fc6977854f1e?cid=4aedc6f8ce714d109d256f4b77e70487
+Song title: Hey Jude
+Musicians: Paul McCartney 
+Album name: Back In The U.S.
+Preview URL: null
+
+Song title: Hey Jude
+Musicians: Erik Grönwall 
+Album name: Erik Grönwall
+Preview URL: https://p.scdn.co/mp3-preview/dd3155321d17394f91a6db36d2c8d7a6caabe64a?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Hey Jude - Live at Sullivan Stadium, Foxboro, MA 7/2/89
+Musicians: Grateful Dead 
+Album name: Long Strange Trip Soundtrack
+Preview URL: https://p.scdn.co/mp3-preview/0b2c252d55b31bb8580b3f0877fb02eef2e0ccbc?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Hey Jude - Live at Sullivan Stadium, Foxboro, MA 7/2/89
+Musicians: Grateful Dead 
+Album name: Long Strange Trip (Highlights From The Motion Picture Soundtrack)
+Preview URL: https://p.scdn.co/mp3-preview/0b2c252d55b31bb8580b3f0877fb02eef2e0ccbc?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Hey Jude
+Musicians: Elvis Presley 
+Album name: Elvis Now
+Preview URL: https://p.scdn.co/mp3-preview/62f1abc30037c19352ff31885aba4ec723430a4f?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Command: spotify-this-song
+Song title: Jumping Jack Flash - Live At The Beacon Theatre, New York / 2006
+Musicians: The Rolling Stones 
+Album name: Shine A Light
+Preview URL: null
+
+Song title: Jumping Jack Flash - Live
+Musicians: Peter Frampton 
+Album name: Frampton Comes Alive! (Deluxe Edition)
+Preview URL: null
+
+Song title: Jumping Jack Flash
+Musicians: Peter Frampton 
+Album name: Wind Of Change
+Preview URL: null
+
+Song title: Jumping Jack Flash - Live In The United States/1976
+Musicians: Peter Frampton Chris Kimsey 
+Album name: Frampton Comes Alive!
+Preview URL: null
+
+Song title: Jumping Jack Flash/Youngblood(Digitally Remastered 96) - Medley;Digitally Remastered 96
+Musicians: Leon Russell 
+Album name: Leon Live
+Preview URL: null
+
+Song title: Jumping Jack Flash
+Musicians: Bosa Nova All Star Orchestra 
+Album name: Bossa 'n Mix Vol 1
+Preview URL: https://p.scdn.co/mp3-preview/d30bad16d9871f35af42e600b82e2b7b5e387af2?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Jumping Jack Flash
+Musicians: Louis Bertignac 
+Album name: Live Power Trio
+Preview URL: null
+
+Song title: Jumping Jack Flash
+Musicians: Linnea Henriksson 
+Album name: Det bästa från Idol 2010 Audition
+Preview URL: https://p.scdn.co/mp3-preview/1289f240322609b1e04ffcb84de292109b5bf942?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Jumping Jack Flash
+Musicians: Geno Washington and the Ram Jam Band 
+Album name: It's Geno Time
+Preview URL: https://p.scdn.co/mp3-preview/e58432a81140b708447501942af3ea5d344785b2?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Jumping Jack Flash
+Musicians: Have Fun Teaching 
+Album name: Fitness Songs
+Preview URL: https://p.scdn.co/mp3-preview/71d82f672566dc806d95840c0f794f71d6d6619b?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Jumping Jack Flash
+Musicians: Lasha 
+Album name: Rolling Stones - Baby Style
+Preview URL: https://p.scdn.co/mp3-preview/ff684cafb8b4a6673dff5d6a239785b011f460f8?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Song title: Jumping Jack Flash - Live At The Beacon Theatre, New York / 2006
+Musicians: The Rolling Stones 
+Album name: Shine A Light
+Preview URL: null
+
+Song title: Jumping Jack Flash
+Musicians: Calle Kristiansson 
+Album name: Calle Kristiansson
+Preview URL: https://p.scdn.co/mp3-preview/211a27d26993ebc1b5cf6695e9baff661bfda617?cid=4aedc6f8ce714d109d256f4b77e70487
+
+Command: movie-this
+Title: Mr. Nobody; Year: 2009; IMDB rating: 7.9/10; Rotten Tomatoes rating: 64%; Country: Belgium, Germany, Canada, France, USA, UK; Language: English, Mohawk; Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.; Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command: movie-this
+Title: Big; Year: 1988; IMDB rating: 7.3/10; Rotten Tomatoes rating: 97%; Country: USA; Language: English; Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.; Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
 
 Command: my-tweets
-Thu Aug 24 00:43:33 +0000 2017 - I'm deeply grateful for the 800 people who packed our @UMassD town hall tonight &amp; made their voices heard. Thank yo… https://t.co/8rQypWBIn9
+Mon Aug 28 19:26:41 +0000 2017 - I’m proud &amp; grateful for the FEMA volunteers based in Beverly, MA who are on their way to assist the Gulf Coast. https://t.co/nCwHD4MQBd
 
-Wed Aug 23 21:25:47 +0000 2017 - Today I was in Fall River with @USRepKeating for a tour of Portugalia, an incredible family-owned Portuguese market. https://t.co/gC4aWWH9kC
+Mon Aug 28 17:45:01 +0000 2017 - RT @BerniceKing: On the 54th anniversary of my father's 'I Have a Dream' speech, I remain hopeful. I still have a dream worth working for h…
+
+Sun Aug 27 20:47:28 +0000 2017 - For updates, safety info &amp; ways to help Hurricane #Harvey victims, go to the @RedCross gulf coast website: https://t.co/k1eadYr9Pe
+
+Sun Aug 27 20:46:33 +0000 2017 - When the unthinkable happens, we rely on each other for help. The victims of Hurricane #Harvey – good, hardworking people – need us now.
+
+Sun Aug 27 20:45:36 +0000 2017 - I’m heartsick for Texas. Houston is where I lived after I got married at 19, graduated from college &amp; got my 1st full-time law-teaching job.
+
+Sun Aug 27 18:47:16 +0000 2017 - RT @RedCrossHouston: https://t.co/AVOCdipGtg
+
+Sun Aug 27 18:40:42 +0000 2017 - RT @HCSOTexas: We ask again, please do not head on to roadways today. All those light blue markers? Those are high water areas. Stay indoor…
+
+Sun Aug 27 18:39:53 +0000 2017 - RT @RedCrossHouston: If have to leave your home due to flooding &amp; need a safe place to stay, visit https://t.co/plngykFgQN for a list of sh…
+
+Sun Aug 27 18:39:24 +0000 2017 - RT @HoustonOEM: Please only use 911 for life-threatening emergencies. https://t.co/SSmdlcJecE
+
+Sun Aug 27 20:42:25 +0000 2017 - RT @fema: Follow @HoustonOEM for important safety updates like this one. Be safe everyone. #Harvey https://t.co/DSDlj5JOgk
+
+Sat Aug 26 00:22:19 +0000 2017 - Tonight's 13th town hall of year was our biggest yet: 1500 people filled Concord Carlisle HS's auditorium, cafeteri… https://t.co/rTVeRWZwud
+
+Fri Aug 25 15:53:42 +0000 2017 - .@SenFranken and I need your help to stop Congress from giving away your right to hold big banks accountable. Watch: https://t.co/fiITw5IdZn
+
+Fri Aug 25 01:09:08 +0000 2017 - Wow, 1100 people jammed Furnace Brook Middle School for our Marshfield town hall tonight! Thank you all for joining… https://t.co/q2aqDQUDhM
+
+Thu Aug 24 00:43:33 +0000 2017 - I'm deeply grateful for the 800 people who packed our @UMassD town hall tonight &amp; made their voices heard. Thank yo… https://t.co/8rQypWBIn9
 
 Wed Aug 23 21:27:32 +0000 2017 - @USRepKeating We heard from business owners &amp; community leaders about how our gov can be better partners for the So… https://t.co/GMIC5DW0hA
 
-Sun Aug 13 03:05:06 +0000 2017 - We make judgments as humans &amp; as a country about right &amp; wrong. When there's evil, we all need to say it. Especially our President.
-
-Tue Aug 15 00:46:52 +0000 2017 - Let me be clear: These cowardly acts of hate aren't welcome in Boston or anywhere else in this country. https://t.co/AJTTk8N92W
-
-Sun Aug 13 03:03:52 +0000 2017 - How can @realDonaldTrump can show whose side he's on? He can start by publicly calling this what it is: white supremacy.
-
-Sun Aug 13 03:02:28 +0000 2017 - Someone was murdered at a Neo-Nazi rally today. That happened. In America. In 2017. It's time to make clear where we stand – all of us.
+Wed Aug 23 21:25:47 +0000 2017 - Today I was in Fall River with @USRepKeating for a tour of Portugalia, an incredible family-owned Portuguese market. https://t.co/gC4aWWH9kC
 
 Tue Aug 15 21:03:44 +0000 2017 - The President of the United States just defended neo-Nazis and blamed those who condemn their racism and hate. This is sick.
 
-Sat Aug 12 14:43:59 +0000 2017 - Racism, bigotry &amp; hate are wrong - in Charlottesville &amp; anywhere else in this country. We should be a better people than that.
+Mon Aug 28 14:35:37 +0000 2017 - RT @RedCross: #RedCross is providing shelter, meals &amp; comfort to people impacted by #Harvey. To find a location: https://t.co/yD9AARDkqw or…
 
-Fri Aug 11 23:59:25 +0000 2017 - This is great news for thousands of MA homeowners. @MassAGO Healey is one tough cookie! https://t.co/5P3fysnj3m
+Tue Aug 15 00:46:52 +0000 2017 - Let me be clear: These cowardly acts of hate aren't welcome in Boston or anywhere else in this country. https://t.co/AJTTk8N92W
 
-Fri Aug 11 22:07:06 +0000 2017 - I'm grateful for the chance to grab dinner with MA military families in Wiesbaden. They represent our commitment to… https://t.co/4twcjjFqxT
-
-Fri Aug 11 22:05:47 +0000 2017 - We also reaffirmed the need for the US &amp; NATO to remain united in countering these asymmetric tactics from Russia.
-
-Fri Aug 11 22:01:29 +0000 2017 - I stopped in Wiesbaden, Germany on my way back from Poland &amp; Estonia at the headquarters for US Army operations in… https://t.co/1BGoVJ3fJ3
-
-Thu Aug 10 22:21:35 +0000 2017 - I also stopped by that Soviet statue. Tiny Estonia is on the frontline of Russian aggression - but they're not movi… https://t.co/SNABTxhdq5
-
-Fri Aug 11 22:02:50 +0000 2017 - I spoke to a conference of senior military leaders in Germany, where I learned more about the US Army's efforts to… https://t.co/aDBXQYqBYv
-
-Thu Aug 10 22:16:24 +0000 2017 - In 2007, Estonia moved an old Soviet statue. For days, Estonia was subjected to a massive digital siege of its banks, media, &amp; gov websites.
-
-Thu Aug 10 22:20:02 +0000 2017 - Estonia has learned a lot about orchestrated cyber-attacks. Their expertise is critical to deter &amp; defend against R… https://t.co/APnByALAwB
-
-Thu Aug 10 22:15:11 +0000 2017 - I spent time in Estonia this week meeting with top officials &amp; visiting the NATO Cooperative Cyber Defense Center o… https://t.co/IFUGPcP2c9
-
-Fri Aug 11 22:04:03 +0000 2017 - We reaffirmed the need to strengthen Europe's capabilities against Russia's aggressive &amp; destabilizing activities throughout Europe.
-
-Wed Aug 09 19:52:08 +0000 2017 - As Russia engages in aggressive, destabilizing activity in the region, it's important for allies like Poland to kno… https://t.co/cBhJwi2vBl
-
-Command: spotify-this-song
-Command: spotify-this-song
-Command: spotify-this-song
-Song title: The Real Thing; Artists: Phoenix ; Album name: Bankrupt!; Preview URL: null
-
-Song title: The Real Thing; Artists: Hoodie Allen ; Album name: People Keep Talking; Preview URL: https://p.scdn.co/mp3-preview/e8e9a9ca77670d288e1857b30633f237a31da27c?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: The Real Thing; Artists: Bo Bice ; Album name: The Real Thing; Preview URL: https://p.scdn.co/mp3-preview/d53809993cfd6d03ab944acadac92de3645b78a1?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: The Real Thing; Artists: Faith No More ; Album name: The Real Thing; Preview URL: https://p.scdn.co/mp3-preview/99c55572981769daa63812ef3bc02331f1349a96?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: The Real Thing; Artists: Gwen Stefani ; Album name: Love Angel Music Baby; Preview URL: null
-
-Command: spotify-this-song
-Song title: Strawberry Fields Forever; Artists: Rockabye Baby! ; Album name: Lullaby Renditions of The Beatles; Preview URL: https://p.scdn.co/mp3-preview/c5460c79399ce1a929e8fb4bcd68745bfbf259dd?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: Karen Souza Los Panchos ; Album name: Karen Souza Essentials; Preview URL: https://p.scdn.co/mp3-preview/4acec5e909cc1cb3c89308dc38436f3385d29589?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: Richie Havens ; Album name: Paris Live 1969; Preview URL: https://p.scdn.co/mp3-preview/15cdb31b80daa4447b6fbb480364940f01e82e22?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: Los Fabulosos Cadillacs ; Album name: Fabulosos Exitos; Preview URL: https://p.scdn.co/mp3-preview/64a19340e324bac3f41572d4f3b00305adc5265c?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: Ben Harper ; Album name: I Am Sam (Original Soundtrack); Preview URL: https://p.scdn.co/mp3-preview/e672a386930d3ea77f6ee92b2ffc1dcc52dc8f81?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: Los Panchos Karen Souza ; Album name: Vintage Café: Lounge & Jazz Blends (Special Selection), Pt. 2; Preview URL: https://p.scdn.co/mp3-preview/4acec5e909cc1cb3c89308dc38436f3385d29589?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: Me First and the Gimme Gimmes ; Album name: Ruin Jonny's Bar Mitzvah; Preview URL: https://p.scdn.co/mp3-preview/e06340eecbce3818bc79ed932c00fc6977854f1e?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: Stephen Bennett ; Album name: Beatles Acoustic Guitar Solos; Preview URL: https://p.scdn.co/mp3-preview/1305cf00ab5424612ce29c00b0a421790b3d95aa?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: Strawberry Fields Forever; Artists: La Santa Cecilia ; Album name: Someday New; Preview URL: null
-
-Song title: Strawberry Fields Forever; Artists: Caspar Babypants ; Album name: Beatles Baby!; Preview URL: https://p.scdn.co/mp3-preview/0cde8a48988066514a62f70f4dceee1c3e8f28d2?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Command: do-what-it-says
-Song title: I Want It That Way; Artists: Backstreet Boys ; Album name: The Hits--Chapter One; Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Backstreet Boys ; Album name: The Essential Backstreet Boys; Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Anthem Lights ; Album name: Covers Part IV; Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Backstreet Boys ; Album name: 90 Sweet 90s Hits!; Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Backstreet Boys ; Album name: Millennium; Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Dynamite Boy ; Album name: Punk Goes Pop; Preview URL: null
-
-Song title: I Want It That Way; Artists: Boyce Avenue ; Album name: New Acoustic Sessions, Vol. 3; Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Backstreet Boys ; Album name: NOW That's What I Call 90s Pop; Preview URL: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Backstreet Boys ; Album name: NKOTBSB; Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Scott Bradlee's Postmodern Jukebox Shoshana Bean ; Album name: Selfies on Kodachrome; Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=4aedc6f8ce714d109d256f4b77e70487
-
-Song title: I Want It That Way; Artists: Scott Bradlee's Postmodern Jukebox Shoshana Bean ; Album name: PMJ Is For Lovers: The Love Song Collection; Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=4aedc6f8ce714d109d256f4b77e70487
+Sun Aug 13 03:05:06 +0000 2017 - We make judgments as humans &amp; as a country about right &amp; wrong. When there's evil, we all need to say it. Especially our President.
 
